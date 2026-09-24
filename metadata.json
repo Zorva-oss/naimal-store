@@ -1,0 +1,6 @@
+{
+  "name": "LUMIX.ai — Intelligent AI Shopping & Curated Drops",
+  "description": "Discover something you'll love with LUMIX.ai. Hyper-personalized AI shopping, curated luxury essentials, trending drops, and intelligent search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
